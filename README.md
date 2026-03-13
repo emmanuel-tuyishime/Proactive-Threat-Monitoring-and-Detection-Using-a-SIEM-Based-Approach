@@ -7,7 +7,7 @@ proactive threat detection.
 
 # Related Publication
 
-Paper Title: Enhancing Cloud Security-Proactive Threat Monitoring and
+1. Enhancing Cloud Security-Proactive Threat Monitoring and
 Detection Using a SIEM‑Based Approach , Available at : <a href="https://www.mdpi.com/2076-3417/13/22/12359">DOI</a>
 
 # Project Overview
