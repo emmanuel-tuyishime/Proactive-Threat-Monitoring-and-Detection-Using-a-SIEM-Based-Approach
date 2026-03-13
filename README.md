@@ -1,11 +1,5 @@
 # Proactive Threat Monitoring and Detection Using a SIEM-Based Approach
 
-Implementation and configuration files supporting the research presented
-in the paper:
-
-**Enhancing Cloud Security---Proactive Threat Monitoring and Detection
-Using a SIEM‑Based Approach** 
-
 This repository provides deployment configurations, scripts, and
 architecture references used to implement a cloud‑based Security
 Information and Event Management (SIEM) monitoring environment for
@@ -13,7 +7,7 @@ proactive threat detection.
 
 # Related Publication
 
-Paper Title: Enhancing Cloud Security---Proactive Threat Monitoring and
+Paper Title: Enhancing Cloud Security-Proactive Threat Monitoring and
 Detection Using a SIEM‑Based Approach , Available at : <a href="https://www.mdpi.com/2076-3417/13/22/12359">DOI</a>
 
 # Project Overview
